@@ -12,7 +12,7 @@ This project explores the market fit for air purifiers in India using AQI (Air Q
 # Key Insights
 - **Pollutant Prioritization:** PM2.5 and PM10 particulate matter are the most prevalent across regions.
 - **Feature Design:** Smart sensors, HEPA filters, humidifier, UV and carbon filters preferred based on region/Customer segment.
-- **Demand Mapping:** Cities with high AQI × population × Awarness level show greatest potential.
+- **Demand Mapping:** Cities with AQI level × population × Awarness level show greatest potential.
 - **R&D Alignment:** Product customization based on localized pollution patterns.
 
 ---
@@ -30,6 +30,4 @@ This project explores the market fit for air purifiers in India using AQI (Air Q
 - Demand mapping.
 - Where Pollution Hurts Most: City-Level Risk Mapping.  
 - Estimated Market Size.
-
-
 
