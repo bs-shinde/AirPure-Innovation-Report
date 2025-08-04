@@ -25,9 +25,10 @@ This project explores the market fit for air purifiers in India using AQI (Air Q
 ---
 
 ## 📈 Dashboard Highlights  
-- Pollutant-wise severity trends.  
-- Health cost burden visualizations.  
-- Demand mapping.  
+- Severity Mapping.  
+- Health cost burden.  
+- Demand mapping.
+- Where Pollution Hurts Most: City-Level Risk Mapping.  
 - Estimated Market Size.
 
 
