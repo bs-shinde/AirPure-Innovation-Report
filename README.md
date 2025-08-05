@@ -1,5 +1,5 @@
 # AirPure-Innovation-Report
-Targeting the Invisible: Pollutant-Focused Market Fit Study for AirPure.
+Targeting the Invisible: Pollutant-Focused Market Fit Study for AirPure Innovations.
 
 # Objective
 This project explores the market fit for air purifiers in India using AQI (Air Quality Index) data. The goal is to assist **AirPure Innovations**, a startup tackling India’s air quality crisis, in identifying:
